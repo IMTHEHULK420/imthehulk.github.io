@@ -10,7 +10,7 @@
 
 <br>
 
-<p align=center><img src='File Structure.png'></p>
+<p align=center><img src='File Structure.png' style="height: width; width: 290px;"></p>
 
 <br>
 
