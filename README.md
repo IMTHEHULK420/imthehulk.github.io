@@ -6,4 +6,14 @@
 
 <br>
 
+<p align=center>File Structure:</p>
+
+<br>
+
+<p align=center><img src='File Structure.png'></p>
+
+<br>
+
+<hr>
+
 <p align=center>This site built under the <a href='LICENSE'>MIT License</a></p>
